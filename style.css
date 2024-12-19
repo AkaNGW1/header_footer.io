@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#header .box {
+    background-color: #1E90FF;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 24px;
+}
+
+#main .box {
+    background-color: #32CD32;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+}
+
+#footer .box {
+    background-color: #FF4500;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 18px;
+}
